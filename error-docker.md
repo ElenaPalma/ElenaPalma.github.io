@@ -17,6 +17,7 @@ Este problema lo tuve aunque mi computadora sí tiene virtualización habilitada
 
 An unexpected error ocurred while executing a WSL command.
 Either shutd own WSL down with wsl --shutdown, and/or reboot your machine. You can also try reinstalling WSL and/or Docker Desktop. If the issue persists, collect diagnostics and submit and issue.  
+
 ``
 deploying WSL2 distributions
 ensuring main distro is deployed: deploying "docker-desktop": importing WSL distro "WSL2 is not supported with your current machine configuration.\r\nPlease enable the \"Virtual Machine Platform\" optional component and ensure virtualization is enabled in the BIOS.
