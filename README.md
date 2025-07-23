@@ -4,3 +4,5 @@ Tengo pensado utilizar este espacio para publicar algunos de los problemas con l
 
 
 [Solución de error de instalación de Docker Desktop](error-docker.md) 
+
+[Corregir nombres incorrectos en Whatsapp (Android)](error-nombres-whatsapp.md)
