@@ -70,20 +70,30 @@ Dejarlo trabajar por si solo hasta que ya haya terminado de guardar el backup.
 Personalmente, cambie las configuraciones del teléfono para que la pantalla no se apagara y poder ver que el proceso va de 0% a 100% y estar completamente segura de que la hora del último Backup sea el que acabo de hacer.
 
 ### ➡️ En el teléfono nuevo
-### 5. Limpiar caché de Whatsapp 
+### 5. Borrar chats
+
+Cuando inicié sesión en el telefono anterior (otra vez), en el teléfono nuevo apareció un mensaje de que se cerró sesión en este dispositivo y recomiendan borrar chats de este. 
+
+Accedi a borrarlos. En este caso no importa porque vamos a restaurar toda la información de 0 y es necesario intentar poder cargar toda la informacion sin ningun dato que se pueda quedar en el telefono ya que, de cualquier modo, esta incorrecto. 
+
+### 6. Limpiar caché de Whatsapp 
 
 En las configuraciones del teléfono, buscar Apps y ubicar Whatsapp. 
 
 Aquí, dependiendo de la versión de Android puede variar, pero generalmente "Borrar Cache" se encuentra al final de las especificaciones de la aplicación, en este caso, Whatsapp. 
 
 También es posible que se encuentre dentro del apartado de "Almacenamiento" en las especificaciones de la aplicación. 
-### 6. Desinstalar y reinstalar Whatsapp. 
-### 7. Eliminar del teléfono las cuentas "extras" de Google y dejar solamente la que tiene la copia de seguridad.
-### 8. Empezar la configuración inicial de Whatsapp y restaurar los contactos y chats desde la copia de seguridad. 
+
+Además, en este teléfono existe una app que limpia archivos cache y temporales, también eliminé todo lo que encontrara de Whatsapp usándola. 
+
+### 7. Desinstalar y reinstalar Whatsapp. 
+### 8. Eliminar del teléfono las cuentas "extras" de Google y dejar solamente la que tiene la copia de seguridad.
+### 9. Empezar la configuración inicial de Whatsapp y restaurar los contactos y chats desde la copia de seguridad. 
 
 ## Conclusión 
 
 Esos fueron los pasos que seguí para solucionar mi problema, desconozco cual fue el origen pero puede haber sido una copia de seguridad corrupta o algun problema al sincronizar los chats con los contactos, teniendo contactos en diferentes cuentas de Google. 
+
 Después de eso, volví a agregar las cuentas "extras" de Google al teléfono. 
 
 
